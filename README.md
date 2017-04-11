@@ -24,8 +24,8 @@
 
 ## 个人作品
 
-### [邦锐达文化机构](www.beijingbruder.com)
-项目地址缩略图地址： www.592php.com/ps/bangrui.html  （png）
+### [邦锐达文化机构](http://www.beijingbruder.com/)
+项目地址缩略图地址： http://www.592php.com/ps/bangrui.html  （png）
 - 简介
   + 主要负责页面设计和页面交互
 - 项目收获
@@ -33,8 +33,8 @@
   + 对于交互设计细节更加深层次的理解
   + 客户对细节和设计需求的要求把握
 
-### [结婚季](www.592php.com/ps/jiehun.html)
-项目地址缩略图地址： www.592php.com/ps/jiehun.html  （png）
+### [结婚季](http://www.592php.com/ps/jiehun.html)
+项目地址缩略图地址： http://www.592php.com/ps/jiehun.html  （png）
 
 - 简介
   + 结婚季是一个拍婚纱，婚礼物品，婚礼策划，等等多服务的平台
@@ -43,7 +43,7 @@
   + 页面比较多，对项目进行了分类处理
   + 对多页面不同风格，同一平台的融合处理，关联性，整体一致性
 
-### [达州生活惠](www.592php.com/ps/app.html)
+### [达州生活惠](http://www.592php.com/ps/app.html)
 项目地址缩略图地址： http://www.592php.com/ps/app.html  （png）
 
 - 简介
