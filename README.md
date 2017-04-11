@@ -33,7 +33,7 @@
   + 对于交互设计细节更加深层次的理解
   + 客户对细节和设计需求的要求把握
 
-###
+### [结婚季](www.592php.com/ps/jiehun.html)
 项目地址缩略图地址： www.592php.com/ps/jiehun.html  （png）
 
 - 简介
